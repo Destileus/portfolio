@@ -1,0 +1,25 @@
+.container {
+    display: flex;
+    flex-direction: row;
+    background: rgb(0, 3, 7);
+    height: 55px;
+
+    align-items: center;
+    justify-content: center;
+    position: relative;
+}
+
+.container a {
+    color: #fff;
+    margin: 0 15px;
+    text-decoration: none;
+
+    &:hover {
+        color: rgb(121, 11, 143);
+    }
+}
+
+.container .logo {
+    position: absolute;
+    left: 0px;
+}
