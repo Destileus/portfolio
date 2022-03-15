@@ -1,7 +1,7 @@
 .container {
     display: flex;
     flex-direction: row;
-    background: rgb(0, 3, 7);
+    background: rgb(251, 255, 2);
     height: 55px;
 
     align-items: center;
@@ -10,12 +10,12 @@
 }
 
 .container a {
-    color: #fff;
+    color: rgb(180, 175, 175);
     margin: 0 15px;
     text-decoration: none;
 
     &:hover {
-        color: rgb(121, 11, 143);
+        color: rgb(0, 0, 0);
     }
 }
 
