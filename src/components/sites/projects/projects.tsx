@@ -8,7 +8,7 @@ type ProjectsProps = {
 const Projects: React.FC<ProjectsProps> = () => {
   return (
     <div className={styles.container}>
-      Here you can check out all of my projects I've been working on.
+    <p>Here you can check out all the projects I've been working on.</p>
     </div>
   )
 }
