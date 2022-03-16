@@ -10,7 +10,7 @@ const Main: React.FC<MainProps> = () => {
   return (
     <div className={styles.container}>
       <h1>Daniel Araneva</h1>
-      <p>Not a professional, I just write code, and sometimes it works.</p>
+      <p>I develop things. Been doing that for a while now.</p>
       <img src={bigheadimg} alt='not found lol'/>
     </div>
   )

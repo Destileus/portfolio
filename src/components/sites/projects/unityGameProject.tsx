@@ -8,7 +8,7 @@ type UnityGameProjectProps = {
 const UnityGameProject: React.FC<UnityGameProjectProps> = ({ embedURL }) => {
   return (
     <div className={styles.container}>
-        <iframe
+        <iframe title='unity game projects'
             id='webgl_iframe'
             height="100%"
             width="100%"
