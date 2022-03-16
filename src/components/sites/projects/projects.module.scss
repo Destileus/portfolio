@@ -1,6 +1,13 @@
 .container {
     display: flex;
     flex-direction: column;
-    // justify-content: center;
     align-items: center;
+}
+
+.projectsContainer {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    align-items: center;
+    justify-content: center;
 }
