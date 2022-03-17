@@ -13,7 +13,8 @@ const Projects: React.FC<ProjectsProps> = () => {
       
 
         <div className={styles.projectsContainer}>
-        <UnityGameProject embedURL='https://play.unity3dusercontent.com/webgl/ce528440-1925-406c-bfd7-34755a8ed2fa?screenshot=false&embedType=embed' />
+          <UnityGameProject embedURL='https://play.unity3dusercontent.com/webgl/5e3ca467-14db-4613-96d6-b5ff66a02f1d?screenshot=false&embedType=embed' />
+          <UnityGameProject embedURL='https://play.unity3dusercontent.com/webgl/b5460726-11f8-4393-95d9-8a662edd2139?screenshot=false&embedType=embed' />
       </div>
 
     </div>
